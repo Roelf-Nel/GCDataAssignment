@@ -17,3 +17,8 @@ This file contains the tidy output data set as created by the R script above.
 
 ### CodeBook.md
 This file contains the steps performed to create the tidy output data set.
+
+
+## Output
+
+The output summary tidy dataset "grouped_means.txt" contains the average of each variable for each activity and each subject from the Human Activity Recognition Using Smartphones Data Set
